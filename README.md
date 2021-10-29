@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @th1nkP4d
+- 👀 I’m interested in low level development, mostly C/C++ (which doesn't mean I'm good at it ^^)
+- 🌱 I’m currently learning QML and Qt-based development in University
