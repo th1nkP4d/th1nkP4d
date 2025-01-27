@@ -1,3 +1,7 @@
+### About me
 - 👋 Hi, I’m @th1nkP4d
-- 👀 I’m interested in low level development, mostly C/C++ (which doesn't mean I'm good at it ^^)
-- 🌱 I’m currently learning QML and Qt-based development in University
+- 🎓 Bachelor's degree in Computer Engineering
+### Interests
+- Low-level development, mostly C/C++ (which doesn't mean I'm good at it ^^)
+- HDL design and verification
+- Circuit and PCB design
